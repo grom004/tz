@@ -132,13 +132,17 @@
 
 <p align="center">
     $60 + 3x + x = 120$;
-    
+</p>    
+<p align="center">
     $4x = 120 - 60$;
-    
+</p>    
+<p align="center">
     $4x = 60$;
-    
+</p>
+<p align="center">
     $x = \frac{60}{4}$;
-    
+</p>    
+<p align="center">
     $x = 15$.
 </p>
 
